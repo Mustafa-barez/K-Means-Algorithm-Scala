@@ -4,7 +4,7 @@ import breeze.linalg.{squaredDistance, DenseVector, Vector}
 import org.apache.spark.sql.SparkSession
 
 /**
- * K-means clustering using Scala
+ * K-means clustering using Scala and Spark
  */
 object SparkKMeans {
 
